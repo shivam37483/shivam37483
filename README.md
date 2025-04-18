@@ -4,6 +4,6 @@
 
 - 🌱 Leveraging my expertise in AI, Data analytics and Cloud Computing to drive innovation and deliver Real-world solutions.
 
-- 📫 Contact me: **vatshivam4988@gmail.com**.
+- 📫 Reach me: **vatshivam4988@gmail.com**.
 
 - ⚙️ Check out my latest project <a href="https://marketplace.visualstudio.com/items?itemName=HeliosX.syncforge"> here </a>.
